@@ -1,5 +1,5 @@
 # Travel Booking Service (TBS)
-`travel-booking-service` is a weather rest api application  that provides information about flights, hotels, and car rentals for different destinations.
+`travel-booking-service` is a rest api application that provides information about flights, hotels, and car rentals for different destinations.
 
 ## TBS Maven Project Structure
 TBS Rest API application is a multi-module Maven project that contains more than one module or sub-project. The main benefit of using a multi-module Maven project is that it allows you to divide a large project into smaller, more manageable modules. Each module can have its own dependencies, build configurations, and release cycles, which makes it easier to manage and maintain the project `travel-booking-service`.  <br>Here is the maven project structure : 
