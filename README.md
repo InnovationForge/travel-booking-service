@@ -1,4 +1,4 @@
-# travel-booking-service (TBS)
+# Travel Booking Service (TBS)
 `travel-booking-service` is a weather rest api application  that provides information about flights, hotels, and car rentals for different destinations.
 
 ## TBS Maven Project Structure
